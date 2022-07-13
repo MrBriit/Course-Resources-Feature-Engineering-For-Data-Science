@@ -1,38 +1,32 @@
-# Course-Resources-Python-Data-Analysis-For-Data-Science-and-Machine-Learning
-This repository contains all the course materials for Python Data Analysis For Data Science and Machine Learning course on UDEMY
+Hello and welcome to the Feature Engineering for Data Science.
 
-Learn Industry Level Data Cleaning, Data Preprocessing, And Advanced Feature Engineering. All You Need Is Covered!!
+COURSE LINK: https://www.udemy.com/course/feature-engineering-for-data-science/
 
-# Course Link: https://bit.ly/2YF7hKi
+My Name is Dr Bright, I hold a PhD in Data Science, am a former Data Scientist at Microsoft and an instructor here at WPI.
 
+My research interest is in Unbasing Artificial Intelligence, Computational Machine Learning and Conversational AI. Recently I do more research on how companies can use Data Science to achieve more results without compromising on the privacy of their customers.
 
-Interested in the field of Data Analytics, Business Analytics, Data Science or Machine Learning?
+I am the author of the book “How to become a Full Stack Data Scientist” and also “The Data Science Mindset”
 
-Do you want to know the best ways to clean data and derive useful insights from it?
+I will be your lead instructor in this course.
 
-Do you want to save time and easily perform Exploratory Data Analysis(EDA)?
+According to Forbes: "80% of the Data Scientist or Machine Learning engineer's time is spent in cleaning and organizing the data..." and having been a Data Scientist at Microsoft with over 8 years of industry experience, I know how important it is to perform the right feature engineering before building a machine learning model.
 
-Then this course is for you!!
+Building a machine learning models only takes a few minutes to do but preparing your data in order to build a robust a machine learning model is what differentiates a good and successful Data Scientist from a bad one.
 
-According to Forbes: "60% of the Data Scientist's or Data Analyst's time is spent in cleaning and organising the data..."
+If your feature engineering skills are wrong, your entire Data Science or Machine Learning journey is a waste of time.
 
-In this course, you will not just get to know the industry level strategies but also I will practically demonstrate them for better understanding.
+In this course, you will not just get to know the industry level strategies to perform Feature engineering but I will also practically demonstrate them for better understanding.
 
-This course has been practically and carefully designed by industry experts to reflect the real-world scenario of working with messy data.
+You will get to understand all the industry level strategies to deal with messy data.
 
-This course will help you learn complex Data Analytic techniques and concepts for easier understanding and data manipulations.
+I will walk you through step-by-step on each topic explaining each line of code for your understanding.
 
-We will walk you through step-by-step on each topic explaining each line of code for your understanding.
-
-This course has been structured in the following form:
+We will start with:
 
 Introduction To Basic Concepts
 
-Introduction To Data Analysis Tools
-
-BONUS: Python Crush Course
-
-How To Properly Deal With Python Data Types
+How To Properly Deal With Data Types in python
 
 How To Properly Deal With Date and Time In Python
 
@@ -46,7 +40,7 @@ How To Properly Deal With Data Leakage
 
 How To Properly Deal With Categorical Values
 
-Beginner To Advanced Data Visualisation
+Now after we are done with these foundational concepts, then we will start with:
 
 Different Feature Engineering Techniques including:
 
@@ -56,9 +50,11 @@ Feature Scaling
 
 Feature Transformation
 
-Feature Normalisation
+Feature Normalization
 
-Automated Feature EDA Tools
+Then we will move on to
+
+Automated Exploratory Data Analysis Tools like
 
 pandas-profiling
 
@@ -68,7 +64,7 @@ Autoviz
 
 Sweetviz
 
-Automated Feature Engineering
+Automated Feature Engineering tools
 
 RFECV
 
@@ -78,13 +74,11 @@ FeatureSelector
 
 Autofeat
 
-Web scraping
+So you see we will cover everything that you need to know when it comes to preparing your data for building a robust machine learning models.
 
-Wikipedia
+This is a beginner to advanced course so you do not need any prerequisite to start.
 
-online bookstore
+If you are really interested in becoming a Data Scientist and be good at your work and valuable in your team, and be successful in your career, then this course is right for you.
 
-Amazon .com
+Enroll Now: https://www.udemy.com/course/feature-engineering-for-data-science/
 
-This course aims to help beginners, as well as an intermediate data analyst, students, business analyst, data science, and machine learning enthusiasts, master the foundations of confidently working with data in the real world.
-# Course Link: https://bit.ly/2YF7hKi
