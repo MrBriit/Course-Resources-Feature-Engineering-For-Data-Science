@@ -1,6 +1,6 @@
 Hello and welcome to the Feature Engineering for Data Science.
 
-COURSE LINK: https://www.udemy.com/course/feature-engineering-for-data-science/
+COURSE LINK: datamentor.ai
 
 My Name is Dr Bright, I hold a PhD in Data Science, am a former Data Scientist at Microsoft and an instructor here at WPI.
 
