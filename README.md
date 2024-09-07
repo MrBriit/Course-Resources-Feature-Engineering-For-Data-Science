@@ -80,5 +80,5 @@ This is a beginner to advanced course so you do not need any prerequisite to sta
 
 If you are really interested in becoming a Data Scientist and be good at your work and valuable in your team, and be successful in your career, then this course is right for you.
 
-Enroll Now: https://www.udemy.com/course/feature-engineering-for-data-science/
+Enroll Now: https://datamentor.ai
 
